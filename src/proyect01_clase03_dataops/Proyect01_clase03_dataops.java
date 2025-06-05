@@ -19,7 +19,7 @@ public class Proyect01_clase03_dataops {
         // Proceso de datos
         suma = num1 + num2;
         promedio = suma / 2;
-        
+        //TEST
         // Salida de datos
         System.out.println("La suma de los números es: " + suma);
         System.out.println("El promedio de los números es: " + promedio);
